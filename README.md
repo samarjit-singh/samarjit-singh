@@ -31,10 +31,9 @@ Here are some ideas to get you started:
 <!-- https://simpleicons.org/ -->
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=samarjit-singh&count_private=true&show_icons=true&theme=radical)
-
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMARJIT-SINGH&show_icons=true&theme=radical)
 
-
+<!-- https://pastebin.com/FX8wQpxc -->
   ##
  
 <div> 
