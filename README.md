@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<!-- 
 **samarjit-singh/samarjit-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
 <!-- ![Badges](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
 ![Badges](https://img.shields.io/badge/-CSS-1572B6?logo=html5&logoColor=fff)
