@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **samarjit-singh/samarjit-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![Badges](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
+![Badges](https://img.shields.io/badge/-CSS-1572B6?logo=html5&logoColor=fff)
+![Badges](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=html5&logoColor=fff)
+
+<!-- https://simpleicons.org/ -->
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=samarjit-singh&count_private=true&show_icons=true&theme=radical)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMARJIT-SINGH&show_icons=true&theme=radical)
+
+
