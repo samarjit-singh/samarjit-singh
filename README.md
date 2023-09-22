@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-![snake gif](https://github.com/samarjit-singh/samarjit-singh/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/samarjit-singh/samarjit-singh/blob/output/github-contribution-grid-snake.svg) -->
 
 <img src="https://imgur.com/gqV1wKh.gif" height=390  width=1000>
 <p >
