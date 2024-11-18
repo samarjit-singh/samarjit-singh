@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,react,nodejs,github,python,javascript,css,typescript" /><br>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,nestjs,go,html,vscode,cpp,tailwind,postgres,next" />
+    <img src="https://skillicons.dev/icons?i=mongodb,nestjs,go,html,vscode,cpp,tailwind,postgres,next" />
 
   </a>
 </p>
