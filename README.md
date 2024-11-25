@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img height="41" width="40" align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>  -->
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,go,cpp,python,typescript,html,css,mongodb,postgres,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,go,cpp,python,typescript,html,css,mongodb,postgres,mysql,prisma" /><br>
     <img src="https://skillicons.dev/icons?i=react,next,tailwind,nodejs,nestjs,npm,yarn,git,github,vscode,postman" />
 
   </a>
